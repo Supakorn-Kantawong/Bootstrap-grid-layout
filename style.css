@@ -2,7 +2,3 @@ div
 {
     border: 1px solid;
 }
-[class*='clo-']
-{
-    border: 1px solid black;
-}
